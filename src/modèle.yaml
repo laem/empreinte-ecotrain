@@ -48,7 +48,7 @@ contenu carbone électricité . photovoltaïque:
   note: Pourquoi tonne ? Pourquoi ce montant ? Que veut dire "longue vie"
 
 empreinte . exploitation: 
-  titre: Empreinte de l'exploitation sur la durée de vie
+  titre: Exploitation sur la durée de vie
   formule: 1.8
   unité: tonnes
 
@@ -63,6 +63,7 @@ empreinte:
   formule: construction + exploitation
 
 empreinte . par km:
+  titre: Empreinte par kilomètre
   formule: (empreinte * 1000) / distance parcourue
   unité: kgCO2e/km
 
