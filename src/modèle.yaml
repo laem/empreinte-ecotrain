@@ -1,7 +1,10 @@
 poids à vide:
   formule: poids batteries + poids chassis et caisse
+
 poids batteries: 2.9 tonnes
+
 poids chassis et caisse: 7.78 tonnes
+
 capacité batterie: 219 kWh
 
 distance parcourue: 3000000 km
@@ -15,10 +18,12 @@ consommation:
 
 empreinte . matériaux et assemblage:
   formule: 31.7
+  unité: kgCO2e
   description: |
     La Navette est conçue principalement en acier (caisse) et en matériaux bio-sourcés (fibre de lin) pour la cabine.
 empreinte . batterie: 
   formule: 138.6
+  unité: kgCO2e
   description: |
     Les batteries ont une durée d’utilisation de 10 ans puis sont réutilisées au sol sur place en « 2eme vie ». 
 
